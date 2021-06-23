@@ -1,13 +1,13 @@
 
 .App {
-  background-color : #58f599;
+  background : linear-gradient(#b993d6,#8ca6db);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   height: 663px;
 }
 .App h3 {
   padding: 35px;
   text-align: center;
-  color: rgb(153, 109, 51);
+  color: rgb(3, 2, 85);
   font-weight: 900;
 }
 .imgSrc{
@@ -25,10 +25,9 @@
   align-items : center;
   text-align : center;
   border : 5px solid #fff;
-  background-color : #51adeb;
+  background: linear-gradient(#0072ff , #00c6ff);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
 .btn-section{
   margin-left: 35% ;
   margin-top: 5%;
